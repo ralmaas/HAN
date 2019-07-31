@@ -18,4 +18,10 @@ The Wemos D1 Mini is processing the data and will submitt MQTT data at the follo
 10 seconds
 Hourly
 
+Thanks to a lot of makers for source-code and inspiration:
+<ul>
+<li>steinjo
+<li>roarf
+</ul>
+
 <a href="https://github.com/ralmaas/HAN/wiki">More information on the Wiki-page</a>
