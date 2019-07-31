@@ -26,4 +26,4 @@ Thanks to a lot of makers for source-code and inspiration:
 <li>roarf
 </ul>
 
-<a href="https://github.com/ralmaas/HAN/wiki">More information on the Wiki-page</a>
+<a href="https://github.com/ralmaas/HAN/wiki/HAN-using-Wemos-D1-and-MQTT">More information on the Wiki-page</a>
