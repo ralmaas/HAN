@@ -15,7 +15,9 @@ Have added a complete schematics of the setup in the picture folder.
 The Wemos D1 Mini is processing the data and will submitt MQTT data at the following intervals:
 
 3 seconds
+
 10 seconds
+
 Hourly
 
 Thanks to a lot of makers for source-code and inspiration:
