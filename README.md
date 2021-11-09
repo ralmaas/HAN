@@ -27,3 +27,4 @@ Thanks to a lot of makers for source-code and inspiration:
 </ul>
 
 <a href="https://github.com/ralmaas/HAN/wiki/HAN-using-Wemos-D1-and-MQTT">More information on the Wiki-page</a>
+Niels: I can edit this now
